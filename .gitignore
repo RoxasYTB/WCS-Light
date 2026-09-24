@@ -1,0 +1,5 @@
+# Compiled locally for the server; releases attach the deployable binary.
+*.smx
+
+# Release archives are generated from the release tag.
+WCS-Light-*.zip
